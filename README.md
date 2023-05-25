@@ -13,7 +13,7 @@ I am a passionate software developer with a strong commitment to open source. Wi
 <pre><img width="300" src="https://github.com/mindsdb/mindsdb_native/blob/stable/assets/MindsDBColorPurp@3x.png?raw=true" alt="MindsDB" >  <img src="https://raw.githubusercontent.com/camelot-dev/camelot/master/docs/_static/camelot.png" width="100" height="100"> <img src="https://pandas.pydata.org/static/img/pandas.svg" width="200" height="100"> <img alt="Plone Logo" width="100" src="https://raw.githubusercontent.com/plone/.github/main/plone-logo.png"> </pre>
 
 
-### [Camlot-dev](https://github.com/camelot-dev/camelot)
+### [Camlot-Dev](https://github.com/camelot-dev/camelot)
 
 - Camelot is a Python library that can help you extract tables from PDFs!
 
