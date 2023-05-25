@@ -10,7 +10,7 @@
 I am a passionate software developer with a strong commitment to open source. With a deep love for coding, I constantly seek opportunities to contribute to projects that align with my interests and expertise. Through my open source contributions, I aim to make a positive impact on the developer community and collaborate with fellow enthusiasts from around the world.
 
 ## Projects
-<pre><img width="300" src="https://github.com/mindsdb/mindsdb_native/blob/stable/assets/MindsDBColorPurp@3x.png?raw=true" alt="MindsDB" >  <img src="https://raw.githubusercontent.com/camelot-dev/camelot/master/docs/_static/camelot.png" width="100" height="100"> <img src="https://pandas.pydata.org/static/img/pandas.svg" width="200" height="100"> <img alt="Plone Logo" width="100" src="https://raw.githubusercontent.com/plone/.github/main/plone-logo.png"> </pre>
+<pre><img width="300" src="https://github.com/mindsdb/mindsdb_native/blob/stable/assets/MindsDBColorPurp@3x.png?raw=true" alt="MindsDB" >  <img src="https://raw.githubusercontent.com/camelot-dev/camelot/master/docs/_static/camelot.png" width="100" height="100"> <img src="https://pandas.pydata.org/static/img/pandas.svg" width="200" height="100"> <img alt="Plone Logo" width="100" src="https://raw.githubusercontent.com/plone/.github/main/plone-logo.png"> <img alt="Iterative Logo" width="100" src="https://avatars.githubusercontent.com/u/39572954?s=200&v=4"> </pre>
 
 
 ### [Camlot-Dev](https://github.com/camelot-dev/camelot)
