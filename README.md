@@ -23,22 +23,11 @@ I am a passionate software developer with a strong commitment to open source. Wi
 - 
 ### [mindsdb](https://github.com/mindsdb/mindsdb)
 
-- Description: A brief description of the library and the contributions made by [Developer's Name].
+- MindsDB is a Server for Artificial Intelligence Logic, enabling developers to ship AI powered projects from prototyping & experimentation to production in a fast & scalable way.
 
-### [Library 2](https://github.com/username/library2)
+### [Plone](https://github.com/plone/)
 
-- Description: A brief description of the library and the contributions made by [Developer's Name].
-
-
-## Tools
-
-### [Tool 1](https://github.com/username/tool1)
-
-- Description: A brief description of the tool and the contributions made by [Developer's Name].
-
-### [Tool 2](https://github.com/username/tool2)
-
-- Description: A brief description of the tool and the contributions made by [Developer's Name].
+- Core of the enterprise CMS Plone and related projects.
 
 
 ## Contributions Overview
