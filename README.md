@@ -3,30 +3,25 @@
 - 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on solving 
                     real world problems
--     Open source contributor at Camlot,minvws,github, Pandas-dev
 - 📫 How to reach me Kshitiz305@live.com
-
-# Developer's Open Source Contributions
-
-Welcome to the repository showcasing the open source contributions made by [Developer's Name]! Here, you'll find a comprehensive record of various projects, libraries, and tools that I've contributed to within the open source community. Each entry below provides a brief description and links to their respective repositories.
 
 ## About the Developer
 
 I am a passionate software developer with a strong commitment to open source. With a deep love for coding, I constantly seek opportunities to contribute to projects that align with my interests and expertise. Through my open source contributions, I aim to make a positive impact on the developer community and collaborate with fellow enthusiasts from around the world.
 
 ## Projects
+<pre><img width="300" src="https://github.com/mindsdb/mindsdb_native/blob/stable/assets/MindsDBColorPurp@3x.png?raw=true" alt="MindsDB">  <img src="https://raw.githubusercontent.com/camelot-dev/camelot/master/docs/_static/camelot.png" width="100" height="100"> <img src="img src="https://pandas.pydata.org/static/img/pandas.svg" width="100" height="100"></pre>
 
-### [Project 1](https://github.com/username/project1)
 
-- Description: A brief description of the project and the role [Developer's Name] played in its development.
+### [Camlot](https://github.com/camelot-dev/camelot)
 
-### [Project 2](https://github.com/username/project2)
+- Camelot is a Python library that can help you extract tables from PDFs!
 
-- Description: A brief description of the project and the role [Developer's Name] played in its development.
+### [Pandas-Dev](https://github.com/pandas-dev/pandas-stubs)
 
-## Libraries
-
-### [Library 1](https://github.com/username/library1)
+- These are public type stubs for pandas, following the convention of providing stubs in a separate package, as specified in PEP 561. The stubs cover the most typical use cases of pandas. In general, these stubs are narrower than what is possibly allowed by pandas, but follow a convention of suggesting best recommended practices for using pandas.
+- 
+### [mindsdb](https://github.com/mindsdb/mindsdb)
 
 - Description: A brief description of the library and the contributions made by [Developer's Name].
 
