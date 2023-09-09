@@ -13,11 +13,11 @@ I am a passionate software developer with a strong commitment to open source. Wi
 <pre><img width="300" src="https://github.com/mindsdb/mindsdb_native/blob/stable/assets/MindsDBColorPurp@3x.png?raw=true" alt="MindsDB" >  <img src="https://raw.githubusercontent.com/camelot-dev/camelot/master/docs/_static/camelot.png" width="100" height="100"> <img src="https://pandas.pydata.org/static/img/pandas.svg" width="200" height="100"> <img alt="Plone Logo" width="100" src="https://raw.githubusercontent.com/plone/.github/main/plone-logo.png"> <img alt="Iterative Logo" width="100" src="https://avatars.githubusercontent.com/u/39572954?s=200&v=4"> </pre>
 
 
-### [Camlot-Dev](https://github.com/camelot-dev/camelot)
+### [Camlot-Dev](https://github.com/camelot-dev/camelot) (https://github.com/camelot-dev/camelot/pull/366)
 
 - Camelot is a Python library that can help you extract tables from PDFs!
 
-### [Pandas-Dev](https://github.com/pandas-dev/pandas-stubs)
+### [Pandas-Dev](https://github.com/pandas-dev/pandas-stubs) (https://github.com/pandas-dev/pandas-stubs/pull/686)
 
 - These are public type stubs for pandas, following the convention of providing stubs in a separate package, as specified in PEP 561. The stubs cover the most typical use cases of pandas. In general, these stubs are narrower than what is possibly allowed by pandas, but follow a convention of suggesting best recommended practices for using pandas.
 - 
@@ -25,7 +25,7 @@ I am a passionate software developer with a strong commitment to open source. Wi
 
 - MindsDB is a Server for Artificial Intelligence Logic, enabling developers to ship AI powered projects from prototyping & experimentation to production in a fast & scalable way.
 
-### [Plone](https://github.com/plone/)
+### [Plone](https://github.com/plone/) (https://github.com/plone/plone.app.contentmenu/pull/48)
 
 - Core of the enterprise CMS Plone and related projects.
 
