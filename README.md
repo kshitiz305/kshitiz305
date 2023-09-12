@@ -5,7 +5,7 @@
                     real world problems
 - 📫 How to reach me Kshitiz305@live.com
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitiz305&label=Profile%20views&color=0e75b6&style=flat" alt="crocks4123" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitiz305&label=Profile%20views&color=0e75b6&style=flat" alt="kshitiz305" /> </p>
 
 
 ## About the Developer
