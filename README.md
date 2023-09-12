@@ -5,6 +5,9 @@
                     real world problems
 - 📫 How to reach me Kshitiz305@live.com
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitiz305&label=Profile%20views&color=0e75b6&style=flat" alt="crocks4123" /> </p>
+
+
 ## About the Developer
 
 I am a passionate software developer with a strong commitment to open source. With a deep love for coding, I constantly seek opportunities to contribute to projects that align with my interests and expertise. Through my open source contributions, I aim to make a positive impact on the developer community and collaborate with fellow enthusiasts from around the world.
