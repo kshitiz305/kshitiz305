@@ -7,6 +7,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kshitiz305&label=Profile%20views&color=0e75b6&style=flat" alt="kshitiz305" /> </p> 
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=KSHITIZ305)](https://git.io/streak-stats)
 
 ## About the Developer
 
