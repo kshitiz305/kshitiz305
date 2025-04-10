@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @kshitiz305
 - 👀 I’m interested in exploring the world
-- 🌱 I’m currently learning 
 - 💞️ I’m looking to collaborate on solving 
                     real world problems
 - 📫 How to reach me Kshitiz305@live.com
